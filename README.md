@@ -46,8 +46,10 @@ This end-to-end Power BI project includes:
 
 ## 📥 Download PBIX / PBIT File
 
-Download the Power BI file here:  
-👉 https://github.com/kushprajapatimain/superstore-sales-forecast-dashboard/blob/main/dashboard/superstore-sales-forecast-dashboard.pbit
+Download the Power BI template file here:
+
+👉 **https://github.com/kushprajapatimain/superstore-sales-forecast-dashboard/blob/main/superstore-sales-forecast-dashboard.pbit**
+
 
 ---
 
